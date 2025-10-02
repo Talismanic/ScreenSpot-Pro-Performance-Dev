@@ -1,2 +1,3 @@
-# ScreenSpot-Pro-Performance-Dev
-Repository to collect performance of different models on ScreenSpot-Pro benchmark
+- UGround-V1-7B, 31.1%, https://github.com/OSU-NLP-Group/UGround
+- Aguvis-7B, 22.9%, https://github.com/xlang-ai/aguvis
+- ShowUI (2B), 11.3%, https://github.com/showlab/ShowUI
